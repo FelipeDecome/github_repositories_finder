@@ -23,6 +23,7 @@ export default {
 
 html {
   overflow: hidden;
+  background: #fafbff;
 }
 
 #app {
